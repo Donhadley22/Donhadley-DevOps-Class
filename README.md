@@ -1,6 +1,6 @@
-# Hagital-AWS-DevOps-April-Class - ETUK
+# Donhadley-DevOps-Class 
 ## Introduction
-This is a high-level instructor-led virtual class designed to take participants from beginner to advanced level in Microsoft Azure.
+This is a high-level instructor-led virtual class designed to take participants from beginner to advanced level in DevOps.
 
 # Class Rules and Regulations
 
@@ -51,6 +51,9 @@ Provide constructive feedback to the instructor to help improve the online learn
 
 ## Install Ubuntu 20.04 LTS on Windows via WSL
 https://techdirectarchive.com/2023/01/18/how-to-install-and-run-ubuntu-20-04-lts-on-windows-11-using-wsl/
+
+## Install VMware Workstation on Windows
+https://medium.com/analytics-vidhya/step-by-step-install-vmware-workstation-on-windows-1027abc3fadc
 
 ## How to Install Kubectl on Windows 11
 https://techdirectarchive.com/2022/03/29/how-to-install-kubectl-on-windows-11/
